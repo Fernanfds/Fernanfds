@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 ## Redes sociais
 <div>
-   <a href = "[https://www.linkedin.com/in/fernando-silva-465269238/">
+   <a href = "[https://www.linkedin.com/in/fernando-silva-465269238/]">
     <img width="25" src="linkedin.svg">
   </a>
-  <a href = "https://[www.instagram.com/fernanfds/]">
+  <a href = "[https://[www.instagram.com/fernanfds/]">
     <img width="25" src="instagram.png">
   </a>
 
