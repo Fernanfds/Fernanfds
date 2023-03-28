@@ -33,7 +33,16 @@ Here are some ideas to get you started:
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
 </div>
+## Redes sociais
+<div>
+   <a href = "[https://www.linkedin.com/in/fernando-silva-465269238/]">
+    <img width="25" src="linkedin.svg">
+  </a>
+  <a href = "[https://[www.instagram.com/fernanfds/]">
+    <img width="25" src="instagram.png">
+  </a>
 
+</div>
 
 
 ![Snake animation](https://github.com/Fernanfds/Fernanfds/blob/output/github-contribution-grid-snake.svg)
