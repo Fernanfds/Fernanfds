@@ -36,18 +36,14 @@ Here are some ideas to get you started:
 
 ## Redes sociais
 <div>
-  <a href = "mailto: fernanfds24@gmail.com">
-    <img width="30" src="gmail.svg">
-  </a>
+  
   <a href = "https://www.linkedin.com/in/fernando-silva-465269238/">
     <img width="25" src="linkedin.svg">
-  </a>
-  <a href = "https://www.youtube.com/channel/UCEf-7lQKZ7RZcpaZNynmiNw">
-    <img width="35" src="youtube.svg">
   </a>
   <a href = "https://www.instagram.com/fernanfds/">
     <img width="25" src="instagram.png">
   </a>
+
 </div>
 
 ![Snake animation](https://github.com/Fernanfds/Fernanfds/blob/output/github-contribution-grid-snake.svg)
